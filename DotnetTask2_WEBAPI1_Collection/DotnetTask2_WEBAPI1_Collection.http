@@ -1,0 +1,6 @@
+@DotnetTask2_WEBAPI1_Collection_HostAddress = http://localhost:5027
+
+GET {{DotnetTask2_WEBAPI1_Collection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
